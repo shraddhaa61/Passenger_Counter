@@ -13,7 +13,7 @@ h1 {
     margin-bottom: 1vh;
     color: 197BBD;
     
-    
+    font-size: 3.5vh;    
 }
 
 h2 {
@@ -27,6 +27,7 @@ button {
     padding-top: 1vh;
     padding-bottom: 1vh;
     color: white;
+    font-size: 2.5vh;
     font-weight: bold;
     width: 20vh;
     margin-bottom: 1vh;
